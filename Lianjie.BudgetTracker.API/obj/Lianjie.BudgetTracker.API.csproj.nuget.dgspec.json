@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.API\\Lianjie.BudgetTracker.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.API\\Lianjie.BudgetTracker.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.API\\Lianjie.BudgetTracker.API.csproj",
+        "projectName": "Lianjie.BudgetTracker.API",
+        "projectPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.API\\Lianjie.BudgetTracker.API.csproj",
+        "packagesPath": "C:\\Users\\Lianjie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lianjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj"
+              },
+              "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.Infrastructure\\Lianjie.BudgetTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.Infrastructure\\Lianjie.BudgetTracker.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj",
+        "projectName": "Lianjie.BudgetTracker.ApplicationCore",
+        "projectPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\Lianjie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lianjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.Infrastructure\\Lianjie.BudgetTracker.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.Infrastructure\\Lianjie.BudgetTracker.Infrastructure.csproj",
+        "projectName": "Lianjie.BudgetTracker.Infrastructure",
+        "projectPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.Infrastructure\\Lianjie.BudgetTracker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Lianjie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lianjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Lianjie\\Desktop\\Antra\\Antra_Final\\Lianjie_BudgetTracker\\Lianjie.BudgetTracker.ApplicationCore\\Lianjie.BudgetTracker.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

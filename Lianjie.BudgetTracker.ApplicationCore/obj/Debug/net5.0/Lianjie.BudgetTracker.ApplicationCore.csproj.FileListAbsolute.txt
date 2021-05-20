@@ -1,0 +1,15 @@
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\bin\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.deps.json
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\bin\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.runtimeconfig.json
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\bin\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.runtimeconfig.dev.json
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\bin\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.dll
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\bin\Debug\net5.0\ref\Lianjie.BudgetTracker.ApplicationCore.dll
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\bin\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.pdb
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.AssemblyInfo.cs
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.dll
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\ref\Lianjie.BudgetTracker.ApplicationCore.dll
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.pdb
+C:\Users\Lianjie\Desktop\Antra\Antra_Final\Lianjie_BudgetTracker\Lianjie.BudgetTracker.ApplicationCore\obj\Debug\net5.0\Lianjie.BudgetTracker.ApplicationCore.genruntimeconfig.cache
