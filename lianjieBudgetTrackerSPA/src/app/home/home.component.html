@@ -1,0 +1,29 @@
+<div class="card mb-4 shadow bg-light" *ngFor="let user of users">
+    <div class="text-center" ><h4>User</h4></div>
+    <a [routerLink]="['/User/', user.id]">
+      <table class="table" >
+        <thead>
+          <tr class="text-center">
+            <th scope="col">Id</th>
+            <th scope="col">Email</th>
+            <th scope="col">FullName</th>
+            <th scope="col">JoinedOn</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="text-center">
+            
+            <td>{{ user.id }}</td>
+            <td>{{ user.email }}</td>
+            <td>{{ user.fullName }}</td>
+            <td>{{ user.joinedOn | date}}</td>
+            <td>
+              <button type="button" class="btn btn-danger">Delete</button
+              ><button type="button" class="btn btn-warning">Modify</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      
+    </a>
+  </div>

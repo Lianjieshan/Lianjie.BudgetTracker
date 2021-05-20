@@ -1,0 +1,77 @@
+<div >
+    <div class="row">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-4" class="text-center">
+            <div class="row">
+                    <h1 >
+                        {{userDetail?.fullName}}
+                    </h1>
+            </div>
+            <div class="row"  >
+                    <h4>
+                        <span>
+                            {{userDetail?.email}}
+                        </span>
+                    </h4>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<div>
+    <div class="col-4" class="greenTable">
+        <h5 class="center">Incomes</h5>
+
+        <table class="table" >
+            <thead>
+                <th>Id</th>
+                <th>Amount</th>
+                <th>Description</th>
+                <th>Date</th>
+                <th>Remarks</th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let inc of userDetail?.incomes">
+                    <td>{{inc.id}}</td>
+                    <td>&#36;{{inc.amount}}</td>
+                    <td>{{inc.description}}</td>
+                    <td>{{inc.incomeDate | date}}</td>
+                    <td>{{inc.remarks}}</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="text-right">Total Imcome: {{userDetail?.totalIncomes}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <div class="redTable">
+        <h5 class="center">Expenditures</h5>
+
+        <table class="table" >
+            <thead>
+                <th>Id</th>
+                <th>Amount</th>
+                <th>Description</th>
+                <th>Date</th>
+                <th>Remarks</th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let exp of userDetail?.expenditures">
+                    <td>{{exp.id}}</td>
+                    <td>&#36;{{exp.amount}}</td>
+                    <td>{{exp.description}}</td>
+                    <td>{{exp.expDate | date}}</td>
+                    <td>{{exp.remarks}}</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="text-right">Total Imcome: {{userDetail?.totalExpenditures}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
